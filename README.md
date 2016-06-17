@@ -2,11 +2,14 @@
 
 这是由Coding发起的活动: [https://coding.net/u/phodal/p/AMA/git](https://coding.net/u/phodal/p/AMA/git)
 
-黄峰达，毕业于西安文理学院电子信息工程专业，现就职于ThoughtWorks。长期活跃于开源软件社区GitHub，并编写有相当数量的物联网相关开源软件、维护物联网相关资料。
+黄峰达，毕业于西安文理学院电子信息工程专业，现就职于ThoughtWorks。长期活跃于开源软件社区GitHub，并编写有相当数量的物联网相关开源软件、维护物联网相关资料。目前，专注于物联网和前端领域。
 
-专注于物联网和前端领域，长期为InfoQ编写《物联网周报》，著有电子书《一步步搭建物联网系统》、《GitHub 漫游指南》，被CSDN授予前端博客专家称号。曾作为技术专家，审阅英文版Packt出版社的物联网书籍《Learning Internet of Things》，并翻译该书。
+物联网方面，长期为InfoQ编写《物联网周报》，被CSDN授予前端博客专家称号。曾作为技术专家，审阅英文版Packt出版社的物联网书籍《Learning Internet of Things》，并翻译该书。
+
+开源社区方面，GitHub粉丝数和Star数都是Top 100——因为拥有多个Star上千的电子书项目，即所谓的Markdown程序员。在GitHub上放有《一个全栈增长工程师的练手项目集》、《全栈增长工程师实战》、《全栈增长工程师指南》、《一步步搭建物联网系统》等电子书。
 
 个人网站：https://www.phodal.com/ 
+
 个人微信公众号: phodal
 
 [请随便问我任何问题！](https://github.com/phodal/AMA/issues)
