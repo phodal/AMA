@@ -1,6 +1,8 @@
 # AMA - Ask me anything! 
 
-这是由Coding发起的活动: [https://coding.net/u/phodal/p/AMA/git](https://coding.net/u/phodal/p/AMA/git)
+> 根据Coding发起的活动（[https://coding.net/u/phodal/p/AMA/git](https://coding.net/u/phodal/p/AMA/git)）而Fork的~~。
+
+照例先上简介：
 
 黄峰达（ID: Phodal），毕业于一所你可能从来没听过的二流大学——西安文理学院的电子信息工程专业（电铬铁专业），现就职于ThoughtWorks（深圳）。
 
@@ -43,3 +45,8 @@
 八卦及情感问题请咨询我们家花仲马——无论是程序员的情感困惑，还是我的独家秘事，以及你所好奇的我们之间的任何问题——某人说了，只要你敢问她就敢答：
 
 ![Fenda](images/fenda.png)
+
+License
+---
+
+MIT
